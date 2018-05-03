@@ -20,10 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{1553CE98-8D31-4265-B62F-61CF4E7DC9F7}</ProjectGuid>
-    <RootNamespace>Worksheet2</RootNamespace>
+    <ProjectGuid>{B99AF4E2-5A63-4133-AF7D-5E8DAEEFF721}</ProjectGuid>
+    <RootNamespace>Worksheet2b</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
-    <ProjectName>Worksheet 2</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -120,10 +119,6 @@
     <ClCompile Include="Q2.c" />
     <ClCompile Include="Q3.c" />
     <ClCompile Include="Q4.c" />
-    <ClCompile Include="Q5.c" />
-    <ClCompile Include="Q6.c" />
-    <ClCompile Include="Q7.c" />
-    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
