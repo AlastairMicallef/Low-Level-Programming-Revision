@@ -27,5 +27,20 @@
     <ClCompile Include="Q4.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Q5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q8.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

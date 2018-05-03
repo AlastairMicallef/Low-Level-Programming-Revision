@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{B99AF4E2-5A63-4133-AF7D-5E8DAEEFF721}</ProjectGuid>
-    <RootNamespace>Worksheet2b</RootNamespace>
+    <ProjectGuid>{C8FA4227-177D-4504-AD9E-D893771F272F}</ProjectGuid>
+    <RootNamespace>Worksheet5</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -120,6 +120,10 @@
     <ClCompile Include="Q3.c" />
     <ClCompile Include="Q4.c" />
     <ClCompile Include="Q5.c" />
+    <ClCompile Include="Q7.c" />
+    <ClCompile Include="Q8.c" />
+    <ClCompile Include="Q9.c" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
